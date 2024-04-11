@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mobile Penteration Tester</h3>
 
 <h3 align="left">Connect with me: @ibadifal (Telegram)</h3>
+<h3 align="left">Reverse Engineering | FRIDA | Debugging |</h3>
 <p align="left">
 </p>
 
